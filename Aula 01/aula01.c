@@ -12,5 +12,5 @@ int main(){
    int a;
    a = 2;
    printf("Olá UFMT!\n");
-   return 1;
+   return 0;
 }
