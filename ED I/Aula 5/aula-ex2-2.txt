@@ -1,6 +1,0 @@
-Vet[0] = 5
-Vet[1] = 2
-Vet[2] = 12
-Vet[3] = 1
-O menor valor recebido é 1
-O maior valor recebido é 12
